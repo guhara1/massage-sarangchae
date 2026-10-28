@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://sarangchaemassage.netlify.app/sitemap.xml
-Sitemap: https://sarangchaemassage.netlify.app/sitemap-hub.xml
-Sitemap: https://sarangchaemassage.netlify.app/sitemap-area.xml
-Sitemap: https://sarangchaemassage.netlify.app/sitemap-topic.xml
-Sitemap: https://sarangchaemassage.netlify.app/rss.xml
+Sitemap: https://sarangchaemassage.pages.dev/sitemap.xml
+Sitemap: https://sarangchaemassage.pages.dev/sitemap-hub.xml
+Sitemap: https://sarangchaemassage.pages.dev/sitemap-area.xml
+Sitemap: https://sarangchaemassage.pages.dev/sitemap-topic.xml
+Sitemap: https://sarangchaemassage.pages.dev/rss.xml
